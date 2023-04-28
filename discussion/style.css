@@ -31,6 +31,7 @@ ul {
 
 .container-1>p {
 	text-align: left;
+	font-family: kaushan-script;
 }
 
 #content-2 {
@@ -40,5 +41,15 @@ ul {
 #content-3 {
 	margin-top: 100px;
 }
+
+form {
+	width: 	500px;
+}
+
+label {
+	width: 	300px;
+}
+
+
 
 
